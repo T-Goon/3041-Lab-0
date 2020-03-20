@@ -76,6 +76,11 @@ Replace username with your actual Github username and repoName with *lab0*
     ii. Navigate to any website to test
     iii. To use the hardware buttons (e.g. Home, Siri, etc.), use “Hardware” Menu
 
+## Submit your work
+On canvas, submit th efollowing: 
+- a link to your Github repository
+- a link to your web page
+
 #### More resources on how to work locally with Git: 
 - https://www.jquery-az.com/3-examples-of-git-create-new-branch/
 - https://desktop.github.com/

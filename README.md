@@ -59,24 +59,25 @@ Replace username with your actual Github username and repoName with *lab0*
 ![](https://github.com/cs3041-hci-D20/lab0/blob/master/img/image6.gif)
 
 ## Set up testing environnment
-1. Set up **testing environments** for iOS and Android devices
-  a. For this class, we will mostly use Chrome Developer tools, which allow you to easily test your UI to see how it will look on different devices. 
-    - Open any website in Chrome. You can use the test page that you just created (https://username.github.io/lab0/index.html)- Make sure to replace "username” with your own Github username.
-    - View -> Developer Tools -> Developer Tools (you can also do *ctrl+shift+i* or *Right-click on the page>inspect element*
-    - Use button to toggle device toolbar ![](https://github.com/cs3041-hci-D20/lab0/blob/master/img/image3.png) .
-    - You can test different types of devices. For example, to test iPhone, select iPhone 6/7/8 from dropdown list: 
+####1. Set up **testing environments** for iOS and Android devices
+
+a. For this class, we will mostly use Chrome Developer tools, which allow you to easily test your UI to see how it will look on different devices. 
+- Open any website in Chrome. You can use the test page that you just created (https://username.github.io/lab0/index.html)- Make sure to replace "username” with your own Github username.
+- View -> Developer Tools -> Developer Tools (you can also do *ctrl+shift+i* or *Right-click on the page>inspect element*
+- Use button to toggle device toolbar ![](https://github.com/cs3041-hci-D20/lab0/blob/master/img/image3.png) .
+- You can test different types of devices. For example, to test iPhone, select iPhone 6/7/8 from dropdown list: 
 ![](https://github.com/cs3041-hci-D20/lab0/blob/master/img/image2.png)
       v. Click on the three dots menu for more options. (Note: there may be other “three dots” menus on your screen. Make sure that you select the one next to the buttons shown in the screenshot below.) Then click on “Show Device Frame” which shows you the hardware:
 ![](https://github.com/cs3041-hci-D20/lab0/blob/master/img/image5.png)
   
-  b. Rotate the device by clicking on ![](https://github.com/cs3041-hci-D20/lab0/blob/master/img/image4.png) button
+b. Rotate the device by clicking on ![](https://github.com/cs3041-hci-D20/lab0/blob/master/img/image4.png) button
   
-  c. **Note:** It is always best to test on an actual device as a simulator will never give you the full experience. So, if you have an iphone or iPad to test on, that is even better. 
+c. **Note:** It is always best to test on an actual device as a simulator will never give you the full experience. So, if you have an iphone or iPad to test on, that is even better. 
   
-  d. Another option for Mac users: You can download Xcode and use the iOS simulator    
-    - Instructions [here](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
-    - Navigate to any website to test
-    - To use the hardware buttons (e.g. Home, Siri, etc.), use “Hardware” Menu
+d. Another option for Mac users: You can download Xcode and use the iOS simulator
+- Instructions [here](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+- Navigate to any website to test
+- To use the hardware buttons (e.g. Home, Siri, etc.), use “Hardware” Menu
 
 ## Submit your work
 On canvas, submit th efollowing: 

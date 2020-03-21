@@ -22,7 +22,7 @@ The fork button is located on the top right of this page. [help](https://help.gi
 
   b. Go back to your repository on Github and copy the link under *Clone or Download*
 
-  c. On your computer open a terminal in the directory where you would like to have your project folder and use the command `git clone link-to-you-repo` to clone your repository
+  c. On your computer open a terminal in the directory where you would like to have your project folder and use the command `git clone link-to-YOUR-copy-of-the-repo` to clone your repository
 
   d. Move into your *lab0* directory and create an *index.html* file with the same content as [here](https://github.com/cs3041-hci-D20/lab0/blob/master/README.md#indexhtml-code). Save your edit.
 

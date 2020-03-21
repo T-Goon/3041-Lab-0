@@ -48,7 +48,7 @@ git push --set-upstream origin gh-pages   // to do only the first time you push 
   a. Create a new branch called *gh-pages* in your repository and make sure its content is the same as the master branch. 
 ![](https://github.com/cs3041-hci-D20/lab0/blob/master/img/image7.gif)
 
-#### 5. Access your web page
+### 5. Access your web page
 
 #### Option1: locally 
 While you are coding, you can always test your webpage locally by opening your index.html with your browser. 

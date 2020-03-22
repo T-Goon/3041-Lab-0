@@ -80,7 +80,7 @@ d. Another option for Mac users: You can download Xcode and use the iOS simulato
 - To use the hardware buttons (e.g. Home, Siri, etc.), use “Hardware” Menu
 
 ## Submit your work
-On canvas, submit th efollowing: 
+On canvas, submit the following: 
 - a link to your Github repository
 - a link to your web page
 

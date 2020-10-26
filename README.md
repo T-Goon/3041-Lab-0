@@ -38,7 +38,7 @@ git push
 ```
 Now if you refresh your Github repository, you shall see the newly uploaded html file
 
-####Alternative option: Go to your Github repository, click the 'Add file' button and import your index.html file and/or other files you updated.
+#### Alternative option for step 3e: Go to your Github repository, click the 'Add file' button and import your index.html file and/or other files you updated from your computer.
 
 ### 4. Create your gh-pages branch
 

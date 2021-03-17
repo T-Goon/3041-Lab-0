@@ -115,7 +115,7 @@ On canvas, submit the following:
    <!-- P stands for paragraph -->
    <p>This is just a test, and it looks like it is working!</p>
   
-   <footer>CS3041: Human-Computer Interaction &copy; 2020</footer>
+   <footer>CS3041: Human-Computer Interaction &copy; 2021</footer>
     </div>
 </body>
 </html>

@@ -62,6 +62,7 @@ While you are coding, you can always test your webpage locally by opening your i
 #### Option2: online
 Testing your Github page online is only possible once you pushed your changes to the *gh-pages* branch. Type the following url in your browser:  `username.github.io/lab0/index.html`
 Replace username with your actual Github username and repoName with *lab0*
+**Note**: Sometimes it might take a while for the latest version to refresh and load. 
 ![](https://github.com/cs3041-hci-D20/lab0/blob/master/img/image6.gif)
 
 ## Set up testing environnment

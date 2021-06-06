@@ -1,4 +1,8 @@
-# lab0: Getting started 
+# Lab 0: Getting started 
+
+Lab assignment 0 for WPI class CS 3041 Human Computer Interaction. An assignment that givens an overview of some web app development tools and hosting a website on Github pages.
+
+A detailed description of the assignment can be found below.
 
 ## Goals
 

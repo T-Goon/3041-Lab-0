@@ -2,6 +2,8 @@
 
 Lab assignment 0 for WPI class CS 3041 Human Computer Interaction. An assignment that givens an overview of some web app development tools and hosting a website on Github pages.
 
+Use this link to see the website: https://t-goon.github.io/3041-Lab-0/
+
 A detailed description of the assignment can be found below.
 
 ## Goals
